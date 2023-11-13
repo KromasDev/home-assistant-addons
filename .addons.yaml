@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  ipmi-server:
+    repository: KromasDev/home-assistant-addons/ipmi-server
+    target: ipmi-server
+    image: KromasDev/home-assistant-addons/ipmi-server/
