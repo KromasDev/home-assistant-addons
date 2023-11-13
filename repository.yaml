@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: home-assistant-addons add-on repository
-url: 'https://github.com/KromasDev/home-assistant-addons'
+url: 'https://github.com/kromasdev/home-assistant-addons'
 maintainer: SomeGuy <awesome@example.com>
